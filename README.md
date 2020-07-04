@@ -43,6 +43,9 @@
   
   3.使用websocket+tls client   -sock5Addr "127.0.0.1:6000"  -serverAddr "wss://你证书签名的域名" -password 123456  //启动好后使用SwitchyOmega填写127.0.0.1:6000地址就可以了
   
+# Android
+  https://github.com/dosgo/xSocks-android
+  
 
 # 感谢
   github.com/google/netstack
